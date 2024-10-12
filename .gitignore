@@ -1,0 +1,5 @@
+/.venv/
+/images/
+/videos/
+/image_capture/
+*.org
